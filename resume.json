@@ -1,0 +1,175 @@
+{
+  "basics": {
+    "name": "T. Michael Clemons",
+    "label": "Interactive Designer and Developer",
+    "picture": "",
+    "email": "tmclemons87@gmail.com",
+    "phone": "202-445-4619",
+    "website": "www.polyvrse.com",
+    "summary": "I am an interactive developer and designer with 4 years of experience at crafting user experiences through different mediums (web, mobile, headset, and installations), my goal is to work with a team focused on creating intuitive and compelling user experiences.",
+    "location": {
+      "address": "",
+      "postalCode": "48207",
+      "city": "Detroit",
+      "countryCode": "US",
+      "region": "Michigan"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Organic Inc and Detroit Labs",
+      "position": "Software Engineer - Contractor",
+      "website": "developer.gm.com / www.detroitlabs.com",
+      "startDate": "December 2016",
+      "endDate": "2018",
+      "summary": "Contracted as front-end software engineer for starts-ups and agencies.",
+      "highlights": [
+        "Contributed to the front-end development of an embed angular application called \"Marketplace\" for General Motors infotainment systems. This Application has a reach of over a million users. ",
+        "While contributing to Marketplace app, completed component based styles library for ui, wrapped application for use on android based infotainment systems, leveraged webpack and OOO programming to component-ize and optimize code base, and manipulated and updated graphical assets.",
+        "While contributing to Organic, I utilized angular to complete a responsive web application for American family insurance company’s (Amfam) my account platform which is responsible for insurance coverage across their 19-state market."
+      ]
+    },
+    {
+      "company": "Rock Ventures",
+      "position": "Software Engineer",
+      "website": "www.justsift.com",
+      "startDate": "May, 2015",
+      "endDate": "November 2016",
+      "summary": "Worked with a team of engineers to create a suite of Human resource applications to help connect and engage stakeholders and their workforce.",
+      "highlights": [
+        "Contributed to the development of a core asset library consisting of reusable app styles and components leveraged by the whole team and across multiple applications.",
+        "Assisted with the creation and optimization of a user interface of a team directory application used by over 20,000 users at over 10 companies.",
+        "Developed the user interface of a team member profile page for usage in both a team directory and admin portal applications"
+      ]
+    },
+    {
+      "company": "Altality Inc.",
+      "position": "Augmented Reality Designer and Developer",
+      "website": "www.spellboundar.com",
+      "startDate": "2016",
+      "endDate": "June 2018",
+      "summary": "Alality is the creator of SpellBound which is a therapeutic tool that uses augmented reality technology to help children cope and engage with medical treatment. ",
+      "highlights": [
+        "Created game assets in unity3d for a flagship Augmented Reality application.",
+        "Researched and effectively developed animation to app production pipeline for assets to work efficiently in app."
+      ]
+    },
+    {
+      "company": "Emergence Media | Complex Movements ",
+      "position": "Freelance Interactive Developer and Designer",
+      "website": "www.emergencemedia.org",
+      "startDate": "2014",
+      "endDate": "2017",
+      "summary": "Complex Movements is a Detroit-based artist collective supporting the transformation of communities by exploring the connections of complex science and social justice movements through multimedia interactive performance work.",
+      "highlights": [
+        "Helped to create interactive installations for live music performances and storytelling. ",
+        "Developed 20 story arcs for the installation utilizing game development and interactive development tools including Unity3D and Touch Designer.",
+        "Leveraged Unity for 3D asset animation and implementation via C# scripting.",
+        "Utilized Touch Designer for real-time graphics and production modularity via a node based visual programming language and python scripting."
+      ]
+    },
+    {
+      "company": "Howard University ",
+      "position": "Multimedia Contractor",
+      "website": "www.howard.edu",
+      "startDate": "2012",
+      "endDate": "2014",
+      "summary": "Howard University is a top tier HBCU producing the highest level of black doctorates in the country.",
+      "highlights": [
+        "During the contract I successfully completed over 500 assets including: website comps, video essays, photographs, and graphic designs, for the purpose of university branding and communications."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Howard University",
+      "area": "Digital Design and Development",
+      "studyType": "Masters",
+      "startDate": "2011",
+      "endDate": "2014",
+      "gpa": "3.6",
+      "courses": []
+    },
+    {
+      "institution": "Howard University",
+      "area": "Business",
+      "studyType": "BBA",
+      "startDate": "2005",
+      "endDate": "2009",
+      "gpa": "3.3",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Development",
+      "level": "",
+      "keywords": [
+        "HTML5",
+        "Javascript",
+        "Angular",
+        "Node",
+        "JQuery",
+        "CSS & SASS",
+        "ReactJS",
+        "PHP",
+        "OOO Programming",
+        "Embedded Web Applications"
+      ]
+    },
+    {
+      "name": "Interaction Development",
+      "level": "",
+      "keywords": [
+        "Blender",
+        "Modo",
+        "Cinema4D",
+        "Unreal Engine",
+        "Unity3D",
+        "ThreeJS",
+        "Touchdesigner",
+        "Python",
+        "GLSL"
+      ]
+    },
+    {
+      "name": "Other Experience",
+      "level": "",
+      "keywords": [
+        "AWS",
+        "Azure",
+        "Heroku",
+        "Godaddy VPS",
+        "Stripe Online Payment API"
+      ]
+    },
+    {
+      "name": "Design",
+      "level": "",
+      "keywords": [
+        "2D Digital Illustration",
+        "Graphic Design",
+        "Adobe Creative Suite Proficiency",
+        "UI Design",
+        "Sketch and Figma [UI Wireframing / Design]",
+        "Responsive Design"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": []
+}
